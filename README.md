@@ -1,6 +1,6 @@
 # Hospital Management System using MERN Stack,Redux, TailwindCSS and Framer Motion
 
-<img src="images/1.jpg">
+<!-- <img src="images/1.jpg"> -->
 
 <!-- ## Overview
 
